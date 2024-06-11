@@ -23,13 +23,11 @@ Este é um trabalho para a disciplina de Projetos 2 - CESAR School 2024.1.
 - **Banco de dados** - SQLite/PostgreSQL - Para armazenar informações sobre as cafeterias e avaliações dos usuários
 - **Hospedagem** - Azure - O produto final será hospedado na plataforma Azure, garantindo confiabilidade e escalabilidade.
 
-## SR1
+## Para mais informações do projeto, acesse
 
-- As entregas e links relevantes do SR1 estão detalhadas no arquivo [SR1.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR1.md).
+ [SR1.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR1.md).
 
-## SR2
-
-- As entregas e links relevantes do SR2 estão detalhadas no arquivo [SR2.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR2.md).
+[SR2.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR2.md).
 
 
 ## Licença
