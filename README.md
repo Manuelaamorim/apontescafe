@@ -27,33 +27,9 @@ Este é um trabalho para a disciplina de Projetos 2 - CESAR School 2024.1.
 
 - As entregas e links relevantes do SR1 estão detalhadas no arquivo [SR1.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR1.md).
 
-### Histórias
-
-- para o SR1, temos 5 histórias bem definidas e duas implementadas. As 5 histórias são:
-  1. Cadastro de Usuários
-  2. Cadastro de Cafeterias
-  3. Visualizar detalhes das informações das cafeterias cadastradas
-  4. Favoritar cafeterias
-  5. Avaliar cafeterias cadastradas
-
-
 ## SR2
 
 - As entregas e links relevantes do SR2 estão detalhadas no arquivo [SR2.md](https://github.com/MatheusVelame/projetos2g3/blob/main/SR2.md).
-
-### Histórias
-
-- para o SR2, são 8 histórias bem definidas e duas implementadas. No total:
-  1. Visualizar Detalhes de Cafeterias
-  2. Fazer e ver Avaliações de Cafeterias
-  3. Cadastro de Cafeterias
-  4. Cadastro de Usuários
-  5. Favoritar/Desfavoritar Cafeterias
-  6. Busca por Cafeterias
-  7. Consultar lista de favoritos, editar/excluir itens
-  8. Sistema de reservas - agendar um horário, consultar lista de reservas e editar/excluir itens
-  9. Perfil do usuário - editar/excluir informações
-  10. Visualizar histórico de cafeterias visitadas no site
 
 
 ## Licença
