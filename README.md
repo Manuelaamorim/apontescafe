@@ -22,6 +22,7 @@ Este é um trabalho para a disciplina de Projetos 2 - CESAR School 2024.1.
 - **Interface** - HTML/CSS/JavaScript - Para a interface do usuário
 - **Banco de dados** - SQLite/PostgreSQL - Para armazenar informações sobre as cafeterias e avaliações dos usuários
 - **Hospedagem** - Azure - O produto final será hospedado na plataforma Azure, garantindo confiabilidade e escalabilidade.
+- **Testes Automatizados** - Cypress - alinhado com pipeline de CI/CD.
 
 ## Para mais informações do projeto, acesse
 
